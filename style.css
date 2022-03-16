@@ -1,0 +1,39 @@
+.bordo{
+    position: relative;
+    width: 300px;
+    height: 372px;
+    border: 3px solid white;
+    display: inline-block;
+}
+/* non utilizzato
+.bordo2{          
+    position: relative;
+    width: 300px;
+    height: 372px;
+    border: 3px solid red;
+    
+}*/ 
+
+.verde{
+    width: auto;
+    height: auto;
+    background-color: green;
+   position: absolute;
+   top:0;
+    right:0;
+    text-align: center;
+    vertical-align: middle;
+    display: inline-block;
+}
+.rosso{
+    width: auto;
+    height: auto;
+    background-color: red;
+   position: absolute;
+   top:0;
+    right:0;
+    text-align: center;
+    vertical-align: middle;
+    display: inline-block;
+}
+  
