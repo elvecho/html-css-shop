@@ -95,7 +95,7 @@ body{
     display: none;
 }*/
 #cuorerosso{
-    color: red;
+    color: transparent;
     position: absolute;
     bottom: 30px;
     left: 140px;
@@ -103,8 +103,8 @@ body{
     vertical-align: middle;
 
 }
-img:hover #cuorerosso {
-    opacity: 1;
+.bordo:hover #cuorerosso{
+    color: red;
     display: block;
   }
 
