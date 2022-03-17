@@ -99,7 +99,10 @@
     vertical-align: middle;
 
 }
-
+img:hover #cuorerosso {
+    opacity: 1;
+    display: block;
+  }
 
 
 
