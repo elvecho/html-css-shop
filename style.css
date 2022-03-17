@@ -95,16 +95,17 @@ body{
     display: none;
 }*/
 #cuorerosso{
-    color: transparent;
+    color: red;
     position: absolute;
     bottom: 30px;
     left: 140px;
     text-align: center;
     vertical-align: middle;
+    display: none;
 
 }
 .bordo:hover #cuorerosso{
-    color: red;
+   
     display: block;
   }
 
